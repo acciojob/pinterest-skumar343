@@ -16,5 +16,9 @@ text-align:center;
 }
 .btn{
 	background-color:red;
+	text-decoration:none;
+	color:white;
+	padding:8px 12px;
+	border-radius:10px solid white;
 	
 }/*  your css code here. If applicable */
