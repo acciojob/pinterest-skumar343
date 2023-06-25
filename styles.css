@@ -1,1 +1,14 @@
-/*  your css code here. If applicable */
+.hero{
+	display:flex;
+	justify-content:space-between;
+	
+	
+}
+img{
+	height:260px;
+	width:400px;
+}
+.content{
+	padding:25px
+	text-align:center;
+}/*  your css code here. If applicable */
