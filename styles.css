@@ -18,7 +18,7 @@ text-align:center;
 }
 
 div h1{
-	margin-bottom:25px;
+	margin-bottom:35px;
 }
 div p{
 	margin-bottom:30px;
@@ -27,8 +27,8 @@ div p{
 	background-color:red;
 	text-decoration:none;
 	color:white;
-	padding:8px 12px;
-	border-radius:10px solid white;
+	padding:10px 18px;
+	border-radius:10px;
 	font-weight:bold;
 	
 }/*  your css code here. If applicable */
